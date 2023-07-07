@@ -28,20 +28,41 @@
 		letter-spacing-alt:	0.25em
 	);
 
+$nord0: #2e3440 !default;
+$nord1: #3b4252 !default;
+$nord2: #434c5e !default;
+$nord3: #4c566a !default;
+
+$nord4: #d8dee9 !default;
+$nord5: #e5e9f0 !default;
+$nord6: #eceff4 !default;
+
+$nord7: #8fbcbb !default;
+$nord8: #88c0d0 !default;
+$nord9: #81a1c1 !default;
+$nord10: #5e81ac !default;
+
+$nord11: #bf616a !default;
+$nord12: #d08770 !default;
+$nord13: #ebcb8b !default;
+$nord14: #a3be8c !default;
+$nord15: #b48ead !default;
+
+
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		bg: $nord1,
+		bg-alt: $nord2,
+		fg: $nord4,
+		fg-bold: $nord4,
+		fg-light:	$nord5,
+		border:	$nord5,
+		border-bg: $nord6,
+		highlight: $nord10,
+		accent1: $nord8,
+		accent2: $nord15,
+		accent3: $nord11,
+		accent4: $nord12,
+		accent5: $nord9,
+		accent6: $nord14
 	);
