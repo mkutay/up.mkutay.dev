@@ -2,7 +2,7 @@
 layout: landing
 title: Projects
 description: Things that I did in my lifetime.
-image: assets/images/pic11.jpg
+image: assets/images/new/cpu-city.png
 nav-menu: true
 ---
 
@@ -22,16 +22,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/new/cookie.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Kermis Logger</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A node.js app that logs what has been bought in my classes kermis and puts it in a Google Sheets document.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="http://localhost:4000/2023/06/07/kermis-logger.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

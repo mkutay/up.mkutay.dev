@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: "Learn more about me!"
-image: assets/images/pic07.jpg
+image: assets/images/new/keyboard.jpg
 nav-menu: true
 ---
 

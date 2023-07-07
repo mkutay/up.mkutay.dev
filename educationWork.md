@@ -2,7 +2,7 @@
 layout: landing
 title: Education and Work
 description: Places where I have attended for education and work.
-image: assets/images/pic01.jpg
+image: assets/images/new/california.jpg
 nav-menu: true
 ---
 
