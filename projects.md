@@ -21,7 +21,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="2023/06/07/kermis-logger.html" class="image">
 			<img src="{% link assets/images/new/cookie.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -31,39 +31,39 @@ nav-menu: true
 				</header>
 				<p>A node.js app that logs what has been bought in my classes kermis and puts it in a Google Sheets document.</p>
 				<ul class="actions">
-					<li><a href="http://localhost:4000/2023/06/07/kermis-logger.html" class="button">Learn more</a></li>
+					<li><a href="2023/06/07/kermis-logger.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="2023/06/21/chess-ai" class="image">
+			<img src="{% link assets/images/new/chess.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Basic Chess AI</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A Chess AI using minimax as a searching algorithm.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="2023/06/21/chess-ai" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="2023/06/07/music-composing" class="image">
+			<img src="{% link assets/images/new/music-disc.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Music Composition</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I compose some electronic music when I feel like it.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="2023/06/07/music-composing" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -71,7 +71,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -81,6 +81,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
