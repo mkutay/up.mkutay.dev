@@ -35,7 +35,11 @@ nav-menu: true
 </p>
 
 <p>
-	When I'm out and there is nothing to do, I play Chess on my phone. For now, I'm not that invested in Chess, but I want to be. Chess is such a fascinating game and I really want to play it on the next level. At least for now, I am 1050 elo on <a href="https://chess.com">Chess.com</a>.
+	When I'm out and there is nothing to do, I play Chess on my phone. For now, I'm not that invested in Chess, but I want to be. Chess is such a fascinating game and I really want to play it on the next level. At least for now, I am 1050 elo on <a href="https://">Chess.com</a>.
+</p>
+
+<p>
+	I also have a blog where I post random stuff to. You can access it through this <a href="https://blog.mkutay.dev">link</a>.
 </p>
 
 </div>
